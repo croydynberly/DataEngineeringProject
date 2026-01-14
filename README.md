@@ -5,7 +5,7 @@ This repository contains an end-to-end data engineering project built using Data
 The pipeline transforms raw transactional sales data into analytics-ready datasets for business reporting and insights
 
 ## 🏗️ Architecture (Medallion Pattern)
-![Data Architecture](Documents/Data Architecture.png)
+![Data Architecture](Documents/DataArchitecture.png)
 
 ## 🏗️ Data Warehouse Layers
 
