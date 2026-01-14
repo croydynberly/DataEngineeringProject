@@ -29,7 +29,7 @@ Data Modeling: Implemented fact and dimension tables with SCD Type 2 for Custome
 
 Analytics & Reporting: SQL and PySpark-based reporting for insights on customer behavior, product performance, and sales trends.
 
-###🚀 Project Requirements
+### Project Requirements
 
 Building the Data Warehouse (Data Engineering)
 
